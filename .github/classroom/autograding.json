@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "I/O test",
+      "setup": "javac *.java",
+      "run": "java -cp . Hello",
+      "input": "world!",
+      "output": "Hello world!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
