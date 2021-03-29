@@ -9,4 +9,4 @@ ex:
 
    Input: Mary
    
-   Output: Hello Mary
+   Expected Output: Hello Mary
